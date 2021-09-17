@@ -1,0 +1,15 @@
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\bin\Debug\netstandard2.0\AppGameScoreStandard.deps.json
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\bin\Debug\netstandard2.0\AppGameScoreStandard.dll
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\bin\Debug\netstandard2.0\ref\AppGameScoreStandard.dll
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\bin\Debug\netstandard2.0\AppGameScoreStandard.pdb
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.csproj.AssemblyReference.cache
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.AssemblyInfoInputs.cache
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.AssemblyInfo.cs
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.csproj.CoreCompileInputs.cache
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.dll
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\ref\AppGameScoreStandard.dll
+C:\Users\washi\source\repos\AppGameScoreStandard\AppGameScoreStandard\AppGameScoreStandard\obj\Debug\netstandard2.0\AppGameScoreStandard.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Exkkvb9QwWCtbGv5ijBs2PoLHAAF0RexqgqFehP91Do2jQiVvaoD5OU7RvwZdWGLGC3LsvuP3oIww8eeoxE5WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\washi\\source\\repos\\AppGameScoreStandard\\AppGameScoreStandard\\AppGameScoreStandard.iOS\\AppGameScoreStandard.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\washi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\washi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

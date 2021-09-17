@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppGameScoreStandard.MainPage">
+
+    <StackLayout Padding="10">
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="SCORE GAMES" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <StackLayout Orientation="Horizontal">
+            <Entry x:Name="entId" Keyboard="Numeric" Placeholder="Id" />
+            <Button x:Name="btLocalizar" Text="Localizar" Clicked="btLocalizar_Clicked" />
+            <Button x:Name="btExcluir" Text="Excluir" Clicked="btExcluir_Clicked" />
+        </StackLayout>
+        <Entry Placeholder="HighScore" x:Name="entHiScore" Keyboard="Numeric" />
+        <Entry Placeholder="Game" x:Name="entGame" />
+        <Entry Placeholder="Name" x:Name="entName" />
+        <Entry Placeholder="E-mail" x:Name="entEmail" Keyboard="Email" />
+        <Entry Placeholder="Phrase" x:Name="entPhrase" />
+        <Button Text="Cadastrar" x:Name="btSalvar" Clicked="btSalvar_Clicked" />
+    </StackLayout>
+
+</ContentPage>
